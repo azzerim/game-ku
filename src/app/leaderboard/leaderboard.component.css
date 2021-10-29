@@ -1,0 +1,33 @@
+    body {
+      background-color: #f87e0b;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+  
+  nav li{
+    list-style: none;
+    padding: 1em 0;
+  }
+  
+  nav li a {
+    color: black;
+    font-weight: 700;
+    opacity: 0.8;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+  h1 {
+      text-align: center;
+  }
+  h2 {
+      text-align: center;
+  }
+  p {
+      text-align: center;
+  }
